@@ -45,17 +45,17 @@
 }
 
 .logo {
-	margin-bottom: 0;
+	padding-bottom: 0;
 }
 
 .ourInfo {
-	margin-top: 0;
+	padding-top: 0;
 }
 
 .contactInfo {
 	width: 300px;
 	float: right;
-	clear: right;
+	clear: left;
 }
 
 .presInductor {
