@@ -28,18 +28,20 @@
 }
 
 .linkBanner {
-	font-size: 25px;
+	font-size: 20px;
 	margin-top: 0;
 	background-color: red;
 }
 
 .pageInfo {
-	font-size: 35px;
-	float: right;
+	font-size: 20px;
+	float: left;
+	width: 600px;
 }
 
 .pageImage {
-	float: left;
+	float: right;
+	width: 600px;
 }
 
 
