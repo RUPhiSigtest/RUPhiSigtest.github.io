@@ -44,13 +44,13 @@
 	width: 600px;
 }
 
-.logo {
+.noBottom {
 	padding-bottom: 0;
 	margin-bottom: 0;
 	border-bottom: 0;
 }
 
-.ourInfo {
+.noTop {
 	padding-top: 0;
 	margin-top: 0;
 	border-top: 0;
