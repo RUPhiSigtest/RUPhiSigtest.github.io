@@ -13,9 +13,18 @@
 	width: 100%;
 }
 
+#wrapper {
+	width: 100%;
+	overflow: hidden;
+}
+
+#holder {
+	width: 100%;
+	margin: 0 auto;
+}
+
 .banner {
-	min-width: 100%;
-	margin: 0;
+	width: 100%;
 }
 
 .linkBanner {
