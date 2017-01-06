@@ -32,3 +32,16 @@
 	margin-top: 0;
 	background-color: red;
 }
+
+.pageInfo {
+	font-size: 35px;
+	float: right;
+}
+
+.pageImage {
+	float: left;
+}
+
+
+
+
