@@ -44,6 +44,21 @@
 	width: 600px;
 }
 
+.logo {
+	margin-bottom: 0;
+}
 
+.ourInfo {
+	margin-top: 0;
+}
 
+.contactInfo {
+	width: 300px;
+	float: right;
+	clear: right;
+}
 
+.presInductor {
+	width: 300px;
+	float: right;
+}
