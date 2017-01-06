@@ -1,0 +1,12 @@
+.banner {
+	min-width: 100%;
+}
+
+bkgdimg {
+	background-image: url("assets/backgroundimg");
+	min-height: 100%;
+	min-width: 100%;
+	position: fixed;
+	z-index: 0;
+	opacity: 0.2;
+}
