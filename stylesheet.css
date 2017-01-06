@@ -46,10 +46,14 @@
 
 .logo {
 	padding-bottom: 0;
+	margin-bottom: 0;
+	border-bottom: 0;
 }
 
 .ourInfo {
 	padding-top: 0;
+	margin-top: 0;
+	border-top: 0;
 }
 
 .contactInfo {
