@@ -2,7 +2,7 @@
 	min-width: 100%;
 }
 
-bkgdimg {
+.bkgdimg {
 	background-image: url("assets/backgroundimg");
 	min-height: 100%;
 	min-width: 100%;
