@@ -2,7 +2,7 @@
 	height: 100vh;
 	width: 100vw;
 	z-index: -1;
-	color: #996 gray;
+	background-color: #996 gray;
 }
 
 #wrapper {
@@ -23,8 +23,7 @@
 	font-size: 20px;
 	margin-top: 0;
 	background-color: red;
-	border-radius: 5px;
-	height: 100px;
+	height: 75px;
 }
 
 .pageInfo {
