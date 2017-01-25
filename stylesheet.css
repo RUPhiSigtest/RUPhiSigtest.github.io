@@ -1,10 +1,10 @@
 .background {
-	height: 100%;
-	width: 100%;
+	min-height: 100%;
+	min-width: 100%;
 	left: 0;
 	top: 0;
 	z-index: -1;
-	color: #996;
+	background-color: #996 gray;
 }
 
 .stretch {
@@ -32,6 +32,7 @@
 	margin-top: 0;
 	background-color: red;
 	border-radius: 5px;
+	height: 50px;
 }
 
 .pageInfo {
