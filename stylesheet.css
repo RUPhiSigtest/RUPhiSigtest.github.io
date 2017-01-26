@@ -1,9 +1,6 @@
-.background {
-	height: 100vh;
-	width: 100vw;
-	position: auto;
-	z-index: -50;
-	background-color: #808080;
+
+body {
+	background-color: gray;
 }
 
 #wrapper {
@@ -24,7 +21,7 @@
 	font-size: 20px;
 	margin-top: 0;
 	background-color: red;
-	height: 75px;
+	height: 60px;
 }
 
 .pageInfo {
