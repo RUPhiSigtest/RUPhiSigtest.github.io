@@ -15,41 +15,48 @@ body {
 
 .banner {
 	width: 100%;
+	height: 90px;
 }
 
 .navBar {
-	font-size: 20px;
+	/* font-size: 20px; */
 	margin-top: 0;
 	background-color: red;
 	height: 50px;
 	padding: 0px auto;
-	margin: 0px auto;
+	margin: -4px auto;
 	border: 0px auto;
+	width:  100%;
+	display:  table;
 }
 
 .navBarItem {
-	width: 20vw;
+	width: 19vw;
 	text-align: center;
-	font-color: #ffc;
+	color: #ece0ec;
 	font-size: 15px;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: sans-serif;
+	text-decoration: none;
+}
 
+.entirePage{
+	background-color: white;
+	padding: 0px auto;
+	margin: -20px auto;
+	border: 0px auto;
 }
 
 .pageInfo {
 	font-size: 20px;
-	background-color: white;
-	margin-bottom: 10px;
-	padding: 0px auto;
-	margin: 0px auto;
-	border: 0px auto;
+	float: right;
 }
 
-/*
-.pageImage {
+.pageImage{
 	float: right;
-	width: 600px;
+	clear: left;
 }
-*/
 
 .contactInfo {
 	width: 300px;
