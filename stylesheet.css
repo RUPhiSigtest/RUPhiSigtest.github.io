@@ -1,4 +1,3 @@
-
 body {
 	background-color: #ccc;
 }
@@ -19,13 +18,10 @@ body {
 }
 
 .navBar {
-	/* font-size: 20px; */
 	margin-top: 0;
 	background-color: red;
 	height: 50px;
-	padding: 0px auto;
 	margin: -4px auto;
-	border: 0px auto;
 	width:  100%;
 	display:  table;
 }
@@ -43,19 +39,20 @@ body {
 
 .entirePage{
 	background-color: white;
-	padding: 0px auto;
-	margin: -20px auto;
-	border: 0px auto;
+	overflow: hidden;
 }
 
 .pageInfo {
 	font-size: 20px;
-	float: right;
+	float: left;
+	margin-left: 2vw;
 }
 
 .pageImage{
 	float: right;
-	clear: left;
+	clear: right;
+	margin-right: 2vw;
+	margin-top: 2vh;
 }
 
 .contactInfo {
