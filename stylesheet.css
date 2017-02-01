@@ -68,7 +68,7 @@ body {
 }
 
 .presInductor {
-	width: 300px;
+	width: 23vw;
 	float: right;
 }
 
@@ -90,7 +90,6 @@ body {
 
 .info {
 	margin-top: -3vh;
-
 }
 
 .question {
