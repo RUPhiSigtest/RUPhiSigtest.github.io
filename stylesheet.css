@@ -85,10 +85,11 @@ body {
 }
 
 .pageTitle {
-
+	text-decoration: underline;
 }
 
 .info {
+	margin-top: -3vh;
 
 }
 
@@ -97,13 +98,13 @@ body {
 }
 
 .princInfo {
-
+	margin-top: -4vh;
 }
 
 .header {
-
+	font-size: 4vh;
 }
 
 .principle {
-	
+	color: red;
 }
