@@ -39,13 +39,11 @@ body {
 }
 
 .navBarItem:hover {
-	opacity: 50%;
-	border-bottom: 4px solid black;
+	border-bottom: 1.5vh solid black;
 }
 
 .navBarItem:active {
-	border-bottom: 4px solid black;
-	background-color: rgba(255, 0, 0, 0.9);
+	border-bottom: 1vh solid black;
 }
 
 .entirePage{
