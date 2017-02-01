@@ -43,6 +43,10 @@ body {
 	border-bottom: 4px solid black;
 }
 
+.navBarItem:active {
+	border
+}
+
 .entirePage{
 	background-color: white;
 	overflow: hidden;
@@ -59,6 +63,11 @@ body {
 	float: right;
 	clear: right;
 	margin-right: 2vw;
+	margin-top: 2vh;
+}
+
+#contactPage {
+	margin-left: -15vw;
 	margin-top: 2vh;
 }
 
